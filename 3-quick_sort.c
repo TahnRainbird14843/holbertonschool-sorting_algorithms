@@ -4,7 +4,7 @@
  * quick_sort_partition - sort a given partition
  * @array: input array
  * @start: index of start of partition
- * @end: index of end of partition 
+ * @end: index of end of partition
  * @size: size of whole array
  */
 void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
@@ -24,9 +24,9 @@ void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
 		j = i;
 		while (array[j] > array[piv])
 			j++;
-	
+		
 		if (i != j)
-		{	
+		{
 			tmp = array[i];
 			array[i] = array[j];
 			array[j] = tmp;
