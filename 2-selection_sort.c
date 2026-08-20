@@ -24,11 +24,13 @@ void selection_sort(int *array, size_t size)
 			i++;
 		}
 
-		buf = array[min_index];
-		array[min_index] = array[j];
-		array[j] = buf;
-
-		print_array(array, size);
+		if (min_index != j)
+		{
+			buf = array[min_index];
+			array[min_index] = array[j];
+			array[j] = buf;
+			print_array(array, size);
+		}
 
 		j++;
 	}

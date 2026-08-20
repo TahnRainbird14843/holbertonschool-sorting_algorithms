@@ -35,7 +35,7 @@ void insertion_sort_list(listint_t **list)
 
 		while (check_prev && check_prev->n > check->n)
 		{
-			if (i = 0)
+			if (i == 0)
 				curr = curr->next;
 			swap(check_prev, check);
 			check_prev = check_prev->prev->prev;
