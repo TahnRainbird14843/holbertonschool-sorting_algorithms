@@ -34,9 +34,9 @@ void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
 		}
 	}
 
-	if (i > start + 1)
+	if (i > start)
 		quick_sort_partition(array, start, i - 1, size);
-	if (i + 1 < end)
+	if (i < end)
 		quick_sort_partition(array, i + 1, end, size);
 }
 
