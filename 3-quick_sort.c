@@ -24,11 +24,14 @@ void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
 		j = i;
 		while (array[j] > array[piv])
 			j++;
-		
-		tmp = array[i];
-		array[i] = array[j];
-		array[j] = tmp;
-		print_array(array, size);
+	
+		if (i != j)
+		{	
+			tmp = array[i];
+			array[i] = array[j];
+			array[j] = tmp;
+			print_array(array, size);
+		}
 	}
 
 	if (i > start + 1)
