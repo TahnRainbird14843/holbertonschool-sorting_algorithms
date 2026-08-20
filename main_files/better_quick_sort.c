@@ -10,27 +10,38 @@
 void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
 {
 	size_t i = start;
-	size_t j = start;
+	size_t j = end - 1;
 	size_t piv = end;
 	int tmp;
 
 	if (end - start <= 1)
 		return;
 
-	while (j < end)
+	while (i < j)
 	{
-		while (array[i] <= array[piv] && i < piv)
+		if (array[i] > array[piv] && array[j] <= array[piv])
+		{
+			tmp = array[i];
+			array[i] = array[j];
+			array[j] = tmp;
+			print_array(array, size);
+		}
+		if (array[i] <= array[piv])
 			i++;
-		j = i;
-		while (array[j] > array[piv])
-			j++;
-		
-		tmp = array[i];
-		array[i] = array[j];
-		array[j] = tmp;
-		print_array(array, size);
+		if (array[j] > array[piv])
+			j--;
 	}
 
+	if (array[i] <= array[piv])
+		i++;
+
+	if (i != piv)
+	{
+		tmp = array[piv];
+		array[piv] = array[i];
+		array[i] = tmp;
+		print_array(array, size);
+	}
 	if (i > start + 1)
 		quick_sort_partition(array, start, i - 1, size);
 	if (i + 1 < end)

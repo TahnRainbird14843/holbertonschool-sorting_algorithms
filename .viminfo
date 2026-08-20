@@ -15,9 +15,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1787203282,,"wq"
+|2,0,1787204595,,"wq"
 :set nu
-|2,0,1787193465,,"set nu"
+|2,0,1787204376,,"set nu"
 :Pwq
 |2,0,1787192834,,"Pwq"
 : setnu
@@ -45,230 +45,336 @@ $
 |3,0,36,0,1,0,1787186428,"a"
 
 # File marks:
-'0  21  21  ~/1-insertion_sort_list.c
-|4,48,21,21,1787203282,"~/1-insertion_sort_list.c"
-'1  15  9  ~/1-insertion_sort_list.c
-|4,49,15,9,1787203262,"~/1-insertion_sort_list.c"
-'2  15  9  ~/1-insertion_sort_list.c
-|4,50,15,9,1787203262,"~/1-insertion_sort_list.c"
-'3  3  2  ~/3-O
-|4,51,3,2,1787203184,"~/3-O"
-'4  2  5  ~/1-O
-|4,52,2,5,1787203148,"~/1-O"
-'5  33  2  ~/2-selection_sort.c
-|4,53,33,2,1787203032,"~/2-selection_sort.c"
-'6  38  10  ~/1-insertion_sort_list.c
-|4,54,38,10,1787202894,"~/1-insertion_sort_list.c"
-'7  38  10  ~/1-insertion_sort_list.c
-|4,55,38,10,1787202894,"~/1-insertion_sort_list.c"
-'8  38  10  ~/1-insertion_sort_list.c
-|4,56,38,10,1787202894,"~/1-insertion_sort_list.c"
-'9  38  10  ~/1-insertion_sort_list.c
-|4,57,38,10,1787202894,"~/1-insertion_sort_list.c"
+'0  22  41  ~/3-quick_sort.c
+|4,48,22,41,1787204595,"~/3-quick_sort.c"
+'1  35  42  ~/3-quick_sort.c
+|4,49,35,42,1787204503,"~/3-quick_sort.c"
+'2  35  42  ~/3-quick_sort.c
+|4,50,35,42,1787204503,"~/3-quick_sort.c"
+'3  31  7  ~/3-quick_sort.c
+|4,51,31,7,1787204381,"~/3-quick_sort.c"
+'4  31  7  ~/3-quick_sort.c
+|4,52,31,7,1787204381,"~/3-quick_sort.c"
+'5  31  7  ~/3-quick_sort.c
+|4,53,31,7,1787204381,"~/3-quick_sort.c"
+'6  31  7  ~/3-quick_sort.c
+|4,54,31,7,1787204381,"~/3-quick_sort.c"
+'7  24  7  ~/3-quick_sort.c
+|4,55,24,7,1787204360,"~/3-quick_sort.c"
+'8  24  7  ~/3-quick_sort.c
+|4,56,24,7,1787204360,"~/3-quick_sort.c"
+'9  24  7  ~/3-quick_sort.c
+|4,57,24,7,1787204360,"~/3-quick_sort.c"
 
 # Jumplist (newest first):
+-'  22  41  ~/3-quick_sort.c
+|4,39,22,41,1787204595,"~/3-quick_sort.c"
+-'  35  42  ~/3-quick_sort.c
+|4,39,35,42,1787204552,"~/3-quick_sort.c"
+-'  35  42  ~/3-quick_sort.c
+|4,39,35,42,1787204503,"~/3-quick_sort.c"
+-'  31  7  ~/3-quick_sort.c
+|4,39,31,7,1787204473,"~/3-quick_sort.c"
+-'  31  7  ~/3-quick_sort.c
+|4,39,31,7,1787204473,"~/3-quick_sort.c"
+-'  31  7  ~/3-quick_sort.c
+|4,39,31,7,1787204381,"~/3-quick_sort.c"
+-'  24  7  ~/3-quick_sort.c
+|4,39,24,7,1787204373,"~/3-quick_sort.c"
+-'  24  7  ~/3-quick_sort.c
+|4,39,24,7,1787204373,"~/3-quick_sort.c"
+-'  24  7  ~/3-quick_sort.c
+|4,39,24,7,1787204373,"~/3-quick_sort.c"
+-'  24  7  ~/3-quick_sort.c
+|4,39,24,7,1787204360,"~/3-quick_sort.c"
+-'  24  7  ~/3-quick_sort.c
+|4,39,24,7,1787204150,"~/3-quick_sort.c"
+-'  23  6  ~/3-quick_sort.c
+|4,39,23,6,1787203909,"~/3-quick_sort.c"
+-'  23  6  ~/3-quick_sort.c
+|4,39,23,6,1787203909,"~/3-quick_sort.c"
+-'  23  6  ~/3-quick_sort.c
+|4,39,23,6,1787203909,"~/3-quick_sort.c"
+-'  23  6  ~/3-quick_sort.c
+|4,39,23,6,1787203909,"~/3-quick_sort.c"
+-'  23  6  ~/3-quick_sort.c
+|4,39,23,6,1787203909,"~/3-quick_sort.c"
+-'  23  6  ~/3-quick_sort.c
+|4,39,23,6,1787203898,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203850,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203850,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203850,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203850,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203850,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203850,"~/3-quick_sort.c"
+-'  21  1  ~/3-quick_sort.c
+|4,39,21,1,1787203805,"~/3-quick_sort.c"
+-'  32  13  ~/3-quick_sort.c
+|4,39,32,13,1787203779,"~/3-quick_sort.c"
+-'  30  13  ~/3-quick_sort.c
+|4,39,30,13,1787203779,"~/3-quick_sort.c"
+-'  32  13  ~/3-quick_sort.c
+|4,39,32,13,1787203779,"~/3-quick_sort.c"
+-'  30  13  ~/3-quick_sort.c
+|4,39,30,13,1787203779,"~/3-quick_sort.c"
+-'  32  13  ~/3-quick_sort.c
+|4,39,32,13,1787203779,"~/3-quick_sort.c"
+-'  30  13  ~/3-quick_sort.c
+|4,39,30,13,1787203779,"~/3-quick_sort.c"
+-'  31  13  ~/3-quick_sort.c
+|4,39,31,13,1787203779,"~/3-quick_sort.c"
+-'  32  13  ~/3-quick_sort.c
+|4,39,32,13,1787203779,"~/3-quick_sort.c"
+-'  30  13  ~/3-quick_sort.c
+|4,39,30,13,1787203779,"~/3-quick_sort.c"
+-'  31  13  ~/3-quick_sort.c
+|4,39,31,13,1787203779,"~/3-quick_sort.c"
+-'  32  13  ~/3-quick_sort.c
+|4,39,32,13,1787203779,"~/3-quick_sort.c"
+-'  30  13  ~/3-quick_sort.c
+|4,39,30,13,1787203779,"~/3-quick_sort.c"
+-'  31  13  ~/3-quick_sort.c
+|4,39,31,13,1787203779,"~/3-quick_sort.c"
+-'  31  13  ~/3-quick_sort.c
+|4,39,31,13,1787203730,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  36  7  ~/3-quick_sort.c
+|4,39,36,7,1787203722,"~/3-quick_sort.c"
+-'  33  7  ~/3-quick_sort.c
+|4,39,33,7,1787203722,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  36  7  ~/3-quick_sort.c
+|4,39,36,7,1787203722,"~/3-quick_sort.c"
+-'  33  7  ~/3-quick_sort.c
+|4,39,33,7,1787203722,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  35  7  ~/3-quick_sort.c
+|4,39,35,7,1787203722,"~/3-quick_sort.c"
+-'  36  7  ~/3-quick_sort.c
+|4,39,36,7,1787203722,"~/3-quick_sort.c"
+-'  33  7  ~/3-quick_sort.c
+|4,39,33,7,1787203722,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  35  7  ~/3-quick_sort.c
+|4,39,35,7,1787203722,"~/3-quick_sort.c"
+-'  36  7  ~/3-quick_sort.c
+|4,39,36,7,1787203722,"~/3-quick_sort.c"
+-'  33  7  ~/3-quick_sort.c
+|4,39,33,7,1787203722,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  35  7  ~/3-quick_sort.c
+|4,39,35,7,1787203722,"~/3-quick_sort.c"
+-'  36  7  ~/3-quick_sort.c
+|4,39,36,7,1787203722,"~/3-quick_sort.c"
+-'  33  7  ~/3-quick_sort.c
+|4,39,33,7,1787203722,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  34  7  ~/3-quick_sort.c
+|4,39,34,7,1787203722,"~/3-quick_sort.c"
+-'  35  7  ~/3-quick_sort.c
+|4,39,35,7,1787203722,"~/3-quick_sort.c"
+-'  35  7  ~/3-quick_sort.c
+|4,39,35,7,1787203683,"~/3-quick_sort.c"
+-'  33  138  ~/3-quick_sort.c
+|4,39,33,138,1787203398,"~/3-quick_sort.c"
+-'  32  138  ~/3-quick_sort.c
+|4,39,32,138,1787203398,"~/3-quick_sort.c"
+-'  33  138  ~/3-quick_sort.c
+|4,39,33,138,1787203398,"~/3-quick_sort.c"
+-'  34  138  ~/3-quick_sort.c
+|4,39,34,138,1787203398,"~/3-quick_sort.c"
+-'  34  138  ~/3-quick_sort.c
+|4,39,34,138,1787203398,"~/3-quick_sort.c"
 -'  21  21  ~/1-insertion_sort_list.c
 |4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
--'  15  9  ~/1-insertion_sort_list.c
-|4,39,15,9,1787203276,"~/1-insertion_sort_list.c"
--'  15  9  ~/1-insertion_sort_list.c
-|4,39,15,9,1787203262,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787203253,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787203253,"~/1-insertion_sort_list.c"
--'  3  2  ~/3-O
-|4,39,3,2,1787203184,"~/3-O"
--'  3  2  ~/3-O
-|4,39,3,2,1787203184,"~/3-O"
--'  3  2  ~/3-O
-|4,39,3,2,1787203184,"~/3-O"
--'  3  2  ~/3-O
-|4,39,3,2,1787203184,"~/3-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  2  5  ~/1-O
-|4,39,2,5,1787203148,"~/1-O"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  33  2  ~/2-selection_sort.c
-|4,39,33,2,1787203032,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  1  0  ~/2-selection_sort.c
-|4,39,1,0,1787202987,"~/2-selection_sort.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  38  10  ~/1-insertion_sort_list.c
-|4,39,38,10,1787202894,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  45  20  ~/1-insertion_sort_list.c
-|4,39,45,20,1787202882,"~/1-insertion_sort_list.c"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  3  5  ~/3-O
-|4,39,3,5,1787202666,"~/3-O"
--'  1  0  ~/3-O
-|4,39,1,0,1787202621,"~/3-O"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
+-'  21  21  ~/1-insertion_sort_list.c
+|4,39,21,21,1787203282,"~/1-insertion_sort_list.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/3-quick_sort.c
+	*	1787204592	0
+	"	22	41
+	^	22	42
+	.	22	41
+	+	21	101
+	+	21	125
+	+	21	144
+	+	21	179
+	+	21	31
+	+	21	179
+	+	21	14
+	+	13	18
+	+	21	72
+	+	21	32
+	+	21	101
+	+	21	17
+	+	21	72
+	+	21	232
+	+	20	12
+	+	21	232
+	+	21	98
+	+	21	232
+	+	21	228
+	+	21	267
+	+	21	268
+	+	33	51
+	+	33	70
+	+	33	94
+	+	33	137
+	+	37	94
+	+	33	90
+	+	33	101
+	+	37	200
+	+	37	47
+	+	38	0
+	+	37	199
+	+	21	239
+	+	38	0
+	+	37	0
+	+	35	0
+	+	33	110
+	+	33	93
+	+	33	69
+	+	33	50
+	+	21	264
+	+	33	34
+	+	21	214
+	+	34	18
+	+	35	50
+	+	36	16
+	+	37	1
+	+	21	236
+	+	34	29
+	+	33	34
+	+	20	14
+	+	21	54
+	+	13	16
+	+	33	34
+	+	13	18
+	+	20	12
+	+	22	5
+	+	21	18
+	+	33	33
+	+	34	13
+	+	36	16
+	+	33	0
+	+	34	17
+	+	36	15
+	+	20	2
+	+	22	234
+	+	21	41
+	+	22	0
+	+	20	13
+	+	22	220
+	+	22	217
+	+	33	49
+	+	33	51
+	+	33	69
+	+	33	93
+	+	33	137
+	+	33	138
+	+	13	16
+	+	20	14
+	+	25	42
+	+	26	6
+	+	22	19
+	+	25	30
+	+	31	23
+	+	23	7
+	+	23	14
+	+	32	1
+	+	28	2
+	+	27	2
+	+	29	1
+	+	30	1
+	+	31	1
+	+	31	27
+	+	34	0
+	+	31	12
+	+	32	0
+	+	22	0
+	+	25	0
+	+	24	7
+	+	22	41
 
 > ~/1-insertion_sort_list.c
 	*	1787203281	0
@@ -392,112 +498,6 @@ $
 	^	56	1
 	.	56	0
 	+	56	0
-
-> ~/3-quick_sort.c
-	*	1787194590	0
-	"	44	1
-	^	44	2
-	.	44	1
-	+	18	8
-	+	58	48
-	+	43	25
-	+	48	312
-	+	21	38
-	+	41	21
-	+	42	8
-	+	48	260
-	+	48	320
-	+	40	0
-	+	48	219
-	+	48	270
-	+	48	286
-	+	48	288
-	+	48	205
-	+	21	52
-	+	21	97
-	+	48	201
-	+	21	89
-	+	21	72
-	+	21	29
-	+	21	79
-	+	21	83
-	+	21	101
-	+	21	125
-	+	21	144
-	+	21	179
-	+	21	31
-	+	21	179
-	+	21	14
-	+	13	18
-	+	21	72
-	+	21	32
-	+	21	101
-	+	21	17
-	+	21	72
-	+	21	232
-	+	20	12
-	+	21	232
-	+	21	98
-	+	21	232
-	+	21	228
-	+	21	267
-	+	21	268
-	+	40	1
-	+	41	1
-	+	42	1
-	+	43	27
-	+	48	94
-	+	41	21
-	+	42	8
-	+	48	200
-	+	48	47
-	+	49	0
-	+	48	199
-	+	21	239
-	+	49	0
-	+	48	0
-	+	46	0
-	+	43	0
-	+	42	0
-	+	41	0
-	+	40	0
-	+	21	264
-	+	37	0
-	+	21	214
-	+	45	18
-	+	46	50
-	+	47	16
-	+	48	1
-	+	21	236
-	+	45	29
-	+	37	0
-	+	20	14
-	+	21	54
-	+	13	16
-	+	37	0
-	+	13	18
-	+	20	12
-	+	22	5
-	+	21	18
-	+	36	5
-	+	45	13
-	+	47	16
-	+	34	0
-	+	45	17
-	+	47	15
-	+	20	2
-	+	33	16
-	+	21	41
-	+	22	0
-	+	20	13
-	+	33	2
-	+	32	6
-	+	39	1
-	+	40	1
-	+	41	0
-	+	42	0
-	+	43	27
-	+	44	1
 
 > ~/3-main.c
 	*	1787183107	0
