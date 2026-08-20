@@ -18,7 +18,7 @@ void swap(listint_t *node1, listint_t *node2)
 }
 
 /**
- * insertion_sort - sort a linked list by insertion sort
+ * insertion_sort_list - sort a linked list by insertion sort
  * @list: pointer to linked list
  */
 void insertion_sort_list(listint_t **list)
