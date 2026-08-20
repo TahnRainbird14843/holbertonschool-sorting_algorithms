@@ -14,7 +14,7 @@ void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
 	size_t piv = end;
 	int tmp;
 
-	if (end - start <= 1)
+	if (end - start < 1)
 		return;
 
 	while (j < end)
