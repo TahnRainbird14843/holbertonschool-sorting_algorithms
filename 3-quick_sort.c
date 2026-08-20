@@ -24,7 +24,7 @@ void quick_sort_partition(int *array, size_t start, size_t end, size_t size)
 		j = i;
 		while (array[j] > array[piv])
 			j++;
-		
+
 		if (i != j)
 		{
 			tmp = array[i];
